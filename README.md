@@ -1,4 +1,6 @@
 # Flask Facebook chat-bot
+Este funciona correctamente, tomar en cuenta que hay que poner un token de regreso.
+
 Basic Facebook bot (will chat with you using random phrases you set up) using Flask and Python.
 You can start with this bot as a basic app to build something more difficult and useful.
 
